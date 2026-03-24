@@ -9,7 +9,7 @@ class Node():
 def stringify(node: Node):
     """
     Convert a linked list to a string representation.
-    
+
     >>> stringify(Node(1, Node(2, Node(3))))
     "1 -> 2 -> 3 -> None"
 
